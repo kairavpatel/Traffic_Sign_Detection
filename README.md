@@ -17,6 +17,10 @@ GTSRB Dataset dowload link : https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-g
 - Then run all the cells, and choose one model outoff 7
 - Finally, get the results 
 ## Experiment results
-- Accuracy Graph
+- Accuracy Graph from Tensorboard
+  ![](Results/Accuracy_Result.PNG)
+
+- Loss Graph
+  ![](Results/Loss_Result.PNG)
 
 
