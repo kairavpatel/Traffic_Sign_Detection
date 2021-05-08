@@ -13,4 +13,10 @@ GTSRB Dataset dowload link : https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-g
 - User can able to generate the confusion matrix
 - Also able to save and load the models into three different formates
 ## How use the repository
-- Open the GTSR.i
+- Open the **GTSRB_CNN.ipynb** file
+- Then run all the cells, and choose one model outoff 7
+- Finally, get the results 
+## Experiment results
+- Accuracy Graph
+
+
